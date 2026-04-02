@@ -1,0 +1,13 @@
+{
+  "name": "vm-management-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "A VM management application using VirtualBox.",
+  "author": "justspookje",
+  "license": "MIT"
+}
